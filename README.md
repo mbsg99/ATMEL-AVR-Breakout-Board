@@ -5,12 +5,12 @@ Visit JLCPCB (https://jlcpcb.com/RAT)
 
 The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the field of PCB prototype and fabrication, they are committed to meeting the needs of our customers from different industries in terms of quality, delivery, cost-effectiveness and any other demanding requests.
 
-#Introduction
+# Introduction
 The ATtiny85 is a microcontroller in a kindred vein to the Arduino, but with much fewer IO pins, more minute recollection, and a more minute form factor. In fact, when we verbalize about the ATtiny85 we refer to the IC itself rather than the board. The ATtiny85 can be utilized as a bare chip on a breadboard, as long as you can supply the correct power for the contrivance.
 
 But most commonly the ATtiny85 is supplied with a USB interface, either a full USB port such as the DigiStump Digispark or micro USB via a cloned board commonly found on Aliexpress / Banggood etc.
 
-#Features
+# Features
 Atmel's itty-bitty ATtiny85 8-Bit Processor. 8K of program space, 6 I/O lines, and 4-channel 10 bit ADC. Runs up to 20MHz with an external crystal. The package can be programmed in a circuit.
 
 The high-performance, low-power Microchip 8-bit AVR® RISC-based microcontroller combines 8 KB ISP Flash memory, 512B EEPROM, 512B SRAM, six general-purpose I/O lines, 32 general purpose working registers, one 8-bit timer/counter with compare modes, one 8-bit high-speed timer/counter, USI, internal and external Interrupts, 4-channel 10-bit A/D converter, programmable watchdog timer with internal oscillator, three software selectable power saving modes, and debugWIRE for on-chip debugging. The device achieves a throughput of 20 MIPS at 20 MHz and operates between 2.7-5.5 volts.
